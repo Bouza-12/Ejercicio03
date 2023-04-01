@@ -1,4 +1,6 @@
 ﻿using System.Text;
+using M = System.Math;  //alias de clase
+using System;           //namespace completo
 
 namespace EjercicioI03
 {
@@ -19,6 +21,9 @@ namespace EjercicioI03
             {
                 Console.WriteLine("No ingreso solo numeros.");
             }
+
+            int cuadrado = Math.ElevarAlCuadrado(numeroIngresado);
+            Console.WriteLine("el cuadrado del numero ingresado es: {0}",cuadrado);    
 
 
             // agrego un comentario para ver el cambio en el GIT
@@ -54,5 +59,7 @@ namespace EjercicioI03
             }
             return true;
         }
+
+
     }
 }
