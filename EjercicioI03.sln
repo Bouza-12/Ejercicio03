@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio-07", "..\Ejercici
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase-03", "..\Clase-03\Clase-03.csproj", "{C90E2FC8-8779-463E-A2AF-7E16D94EA3CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_E01", "..\POO_E01\POO_E01.csproj", "{D561FC83-A7FF-4FB9-AA4A-6491220B63D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_E01", "..\POO_E01\POO_E01.csproj", "{D561FC83-A7FF-4FB9-AA4A-6491220B63D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_E02", "..\POO_E02\POO_E02.csproj", "{52BBA1D0-B61A-4C99-839B-999420B38D99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_E02", "..\POO_E02\POO_E02.csproj", "{52BBA1D0-B61A-4C99-839B-999420B38D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Ejercicio-03", "..\POO_Ejercicio-03\POO_Ejercicio-03.csproj", "{705D984D-D6EA-42EA-A990-64F4A4C69948}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{52BBA1D0-B61A-4C99-839B-999420B38D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52BBA1D0-B61A-4C99-839B-999420B38D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52BBA1D0-B61A-4C99-839B-999420B38D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705D984D-D6EA-42EA-A990-64F4A4C69948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705D984D-D6EA-42EA-A990-64F4A4C69948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705D984D-D6EA-42EA-A990-64F4A4C69948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705D984D-D6EA-42EA-A990-64F4A4C69948}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
