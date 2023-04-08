@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billetes", "..\Class_Billet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOB_IE02", "..\SOB_IE02\SOB_IE02.csproj", "{0B2D88F8-E9C1-4F92-B822-B1610FA48766}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Ejercicio-A02", "..\POO_Ejercicio-A02\POO_Ejercicio-A02.csproj", "{832B89E2-C2FD-4CD0-9049-146C34098C4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veterinaria", "..\Veterinaria\Veterinaria.csproj", "{AB376F17-5D5F-4348-AEE3-F0CF044816E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{0B2D88F8-E9C1-4F92-B822-B1610FA48766}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B2D88F8-E9C1-4F92-B822-B1610FA48766}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B2D88F8-E9C1-4F92-B822-B1610FA48766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832B89E2-C2FD-4CD0-9049-146C34098C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832B89E2-C2FD-4CD0-9049-146C34098C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832B89E2-C2FD-4CD0-9049-146C34098C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832B89E2-C2FD-4CD0-9049-146C34098C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB376F17-5D5F-4348-AEE3-F0CF044816E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB376F17-5D5F-4348-AEE3-F0CF044816E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB376F17-5D5F-4348-AEE3-F0CF044816E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB376F17-5D5F-4348-AEE3-F0CF044816E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
