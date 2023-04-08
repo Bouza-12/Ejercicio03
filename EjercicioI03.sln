@@ -29,7 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Ejercicio-03", "..\POO_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Ejercicio-04", "..\POO_Ejercicio-04\POO_Ejercicio-04.csproj", "{6932476F-11B1-462A-B0E4-C08FBC093ABF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Ejercicio-05", "..\POO_Ejercicio-05\POO_Ejercicio-05.csproj", "{A4B8964F-E0F4-4D9D-BF21-F5CB148A0F64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Ejercicio-05", "..\POO_Ejercicio-05\POO_Ejercicio-05.csproj", "{A4B8964F-E0F4-4D9D-BF21-F5CB148A0F64}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_EjercicioA01", "..\POO_Ejercicio06\POO_EjercicioA01.csproj", "{2E0D0F9F-1B3E-4253-8798-01EDF998E2CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billetes", "..\Class_Billetes\Billetes.csproj", "{6D030BBF-5DA9-455A-BE5E-29B2B69E3F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOB_IE02", "..\SOB_IE02\SOB_IE02.csproj", "{0B2D88F8-E9C1-4F92-B822-B1610FA48766}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +99,18 @@ Global
 		{A4B8964F-E0F4-4D9D-BF21-F5CB148A0F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4B8964F-E0F4-4D9D-BF21-F5CB148A0F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4B8964F-E0F4-4D9D-BF21-F5CB148A0F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0D0F9F-1B3E-4253-8798-01EDF998E2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0D0F9F-1B3E-4253-8798-01EDF998E2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0D0F9F-1B3E-4253-8798-01EDF998E2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0D0F9F-1B3E-4253-8798-01EDF998E2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D030BBF-5DA9-455A-BE5E-29B2B69E3F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D030BBF-5DA9-455A-BE5E-29B2B69E3F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D030BBF-5DA9-455A-BE5E-29B2B69E3F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D030BBF-5DA9-455A-BE5E-29B2B69E3F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2D88F8-E9C1-4F92-B822-B1610FA48766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2D88F8-E9C1-4F92-B822-B1610FA48766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2D88F8-E9C1-4F92-B822-B1610FA48766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2D88F8-E9C1-4F92-B822-B1610FA48766}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
